@@ -1,0 +1,226 @@
+canonical_identifier: bkk:krp/KR6g0026/T/v1
+canonical_location: https://kanripo.org/bkk/KR6g0026/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大悲經
+  identifiers:
+    krp: KR6g0026
+    cbeta: T12n0380
+    cbeta_old_id: T12n0380
+    authorityid: CA0000559
+    json_key: T0380
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0380.xml
+    old_id: T12n0380
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0026_000-T.yaml, hash: 'sha256:a8ba681542c1dbfab0307b1d54c2967f1963753c1a3804d2652d766f7859e279'}
+  - {seq: 1, filename: KR6g0026_001-T.yaml, hash: 'sha256:7fa4f327717b111cb7a6eb884e52785d810193e9826c91c1eb7bd81280da16c9'}
+  - {seq: 2, filename: KR6g0026_002-T.yaml, hash: 'sha256:fe5de8f3fb4e2709bfc186893310a56bb075539cb57264e235fafe87f413a3f6'}
+  - {seq: 3, filename: KR6g0026_003-T.yaml, hash: 'sha256:cb6a2c78952aea39c0e6bd8d1c6529e2475124dcf0f6c35c0d12f550fb8147a5'}
+  - {seq: 4, filename: KR6g0026_004-T.yaml, hash: 'sha256:00474e0ec19a5507f8dcad3010420278451dd96342f394df797075ec9a46c091'}
+  - {seq: 5, filename: KR6g0026_005-T.yaml, hash: 'sha256:a8017d82fc0efe5026c5950dfafb9ca25da104fd8fbda2967d390d5b0d6b69d5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0026_000-T.markers.yaml, hash: 'sha256:e3e68589a04a6078a7df5080a4f7c1ad169f8e3a5153c2203439a0dff3fd5be9'}
+  - {seq: 1, role: markers, filename: assets/KR6g0026_001-T.markers.yaml, hash: 'sha256:b8bad1bc53c3f11cb4aaf55a77df52a0626ca9d13f524b3f1da74118bfcca073'}
+  - {seq: 2, role: markers, filename: assets/KR6g0026_002-T.markers.yaml, hash: 'sha256:ecd9ae6ca0e004328b8245f9728659c158f72830651e27372fdd7288d7ce4814'}
+  - {seq: 3, role: markers, filename: assets/KR6g0026_003-T.markers.yaml, hash: 'sha256:23c050e9f50ca5a209aff922920e8fb916f639f81f4cde0d59e5b89349b97e35'}
+  - {seq: 4, role: markers, filename: assets/KR6g0026_004-T.markers.yaml, hash: 'sha256:24001f856da52fa0eaf7057586c2ee2d42ad557551683de0a1c10100f8a1af26'}
+  - {seq: 5, role: markers, filename: assets/KR6g0026_005-T.markers.yaml, hash: 'sha256:de5bd0d4c9f9e1ac92e1059e034a5bf6270f0b029674f2f3c1f7e83ae6a551fa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0026_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8136
+  label: 大悲經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0026_T_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 梵天品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0026_T_001-mulu-2
+    span:
+    - body
+    - 4713
+    - 4713
+  label: 2 商主品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0026_T_001-mulu-3
+    span:
+    - body
+    - 7293
+    - 7293
+  label: 3 帝釋品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0026_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8895
+  label: 大悲經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0026_T_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 4 羅睺羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0026_T_002-mulu-2
+    span:
+    - body
+    - 2226
+    - 2226
+  label: 5 迦葉品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0026_T_002-mulu-3
+    span:
+    - body
+    - 4337
+    - 4337
+  label: 6 持正法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0026_T_002-mulu-4
+    span:
+    - body
+    - 7211
+    - 7211
+  label: 7 舍利品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0026_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7806
+  label: 大悲經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0026_T_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 8 禮拜品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0026_T_003-mulu-2
+    span:
+    - body
+    - 2077
+    - 2077
+  label: 9 善根品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0026_T_003-mulu-3
+    span:
+    - body
+    - 3034
+    - 3034
+  label: 10 布施福德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0026_T_003-mulu-4
+    span:
+    - body
+    - 7074
+    - 7074
+  label: 11 殖善根品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0026_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7269
+  label: 大悲經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0026_T_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 12 以諸譬喻付囑正法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0026_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7175
+  label: 大悲經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0026_T_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 13 殖善根品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0026_T_005-mulu-2
+    span:
+    - body
+    - 4890
+    - 4890
+  label: 14 教品
+  type: mulu
+  level: 1
+hash: sha256:9efffe650b2e6e8def9771290caf796a522ebe632aaac79ae0ab2403fd9ddda3
